@@ -1,2 +1,2 @@
-#!/bin/ba4sh
+#!/bin/bash
 echo $(ls -amXp) $'\n'
